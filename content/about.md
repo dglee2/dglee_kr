@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "어바웃 페이지"
-date = "2020-07-21"
+date = "2020-07-20"
 aliases = ["about"]
 #author = "Hugo Authors"
 +++
