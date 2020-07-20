@@ -1,7 +1,7 @@
 ---
 title: "아기고양이 더 죽다.. 이제 한 녀석만 남음."
 url: "more_kitten_lost"
-date: 2020-07-21
+date: 2020-07-20
 draft: false
 tags: ["길고양이", "임신", "진해"]
 ---
