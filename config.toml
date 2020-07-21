@@ -1,0 +1,54 @@
+baseURL = "https://dglee.kr/"
+title = "DGLEE.KR"
+theme = "hugo-notepadium"
+copyright = "2020 ALL RIGHTS RESERVED."
+
+languageCode = "ko-kr"
+hasCJKLanguage = true
+
+enableRobotsTXT = true
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+style = "auto"
+dateFormat = "Monday, January 2, 2006"
+#dateFormat = "Wednesday, March 7, 1979"
+#logo = ""
+slogan = "Life Experience & Thoughts"
+license = ""
+fullRss = false
+
+[params.comments]
+enable = false
+
+[params.syntax]
+use = "none"
+theme = "xcode"
+darkTheme = "xcode-dark"
+
+[params.share]
+enable = false
+addThisId = ""
+inlineTooId = ""
+
+[params.nav]
+#showCategories = true
+showTags = true
+
+[[params.nav.custom]]
+title = "About"
+url = "/about"
+
+#[[params.nav.custom]]
+#title = "Hugo"
+#url = "https://gohugo.io/"
+
+[params.math]
+enable = true
+use = "katex"
