@@ -16,3 +16,15 @@ aliases = ["about"]
 > 제주 여행을 계기로 어쩌다 보니 도메인도 사버렸겠다... 다시한번 꾸려봄.</br>
 > 만약, 마아~~냑에 내가 연말까지 이걸 잘 유지하고 있다면 </br>
 > 나한테 상줄것 같다. </br>
+
+## 내가 좋아하는...
+
+### 영화
+* Wonder (2017)
+* Passengers (2016)
+* About time (2013)
+* Familyman (2000)
+
+### 명언
+* "If you can't explain it simply, you don't understand it well enough" - Albert Einstein
+* "Life shrinks or expands in proportion to one's courage" - Anais Nin
