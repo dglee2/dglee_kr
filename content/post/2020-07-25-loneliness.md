@@ -1,7 +1,7 @@
 ---
 title: "외로움에 관하여..."
 url: "about_loneliness"
-date: 2020-07-24
+date: 2020-07-25
 draft: false
 tags: ["외로움","성숙함","삶","목표","가치"]
 ---
