@@ -42,7 +42,7 @@ inlineTooId = ""
 showTags = true
 
 [[params.nav.custom]]
-title = "Analects"
+title = "논어"
 url = "/analects"
 
 [[params.nav.custom]]
