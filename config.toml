@@ -42,6 +42,10 @@ inlineTooId = ""
 showTags = true
 
 [[params.nav.custom]]
+title = "Analects"
+url = "/analects"
+
+[[params.nav.custom]]
 title = "About"
 url = "/about"
 
