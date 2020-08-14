@@ -1,7 +1,7 @@
 ---
-title: "이제 여름인가."
+title: "이제 진짜 여름인가."
 url: "real_summer"
-date: 2020-08-14
+date: 2020-08-14T09:00:00+09:00
 draft: false
 tags: ["여름", "맑음"]
 ---
