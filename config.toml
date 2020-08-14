@@ -39,7 +39,11 @@ inlineTooId = ""
 
 [params.nav]
 #showCategories = true
-showTags = true
+#showTags = true
+
+[[params.nav.custom]]
+title = "IT Note"
+url = "/it-note"
 
 [[params.nav.custom]]
 title = "논어"

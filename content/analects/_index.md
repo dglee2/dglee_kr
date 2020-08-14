@@ -1,0 +1,4 @@
++++
+author = "DG"
+title = "Analect"
++++
