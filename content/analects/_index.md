@@ -1,4 +1,4 @@
 +++
 author = "DG"
-title = "Analect"
+title = "Analects"
 +++
