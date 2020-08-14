@@ -1,7 +1,7 @@
 ---
 title: "주말마다 방전."
 url: "need_recharge"
-date: 2020-08-15T00:30:00+09:00
+date: 2020-08-15T00:10:00+09:00
 draft: false
 tags: ["주말", "방전"]
 ---
