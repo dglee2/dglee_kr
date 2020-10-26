@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BLUE on DGLEE.KR</title>
+    <link>/tags/blue/</link>
+    <description>Recent content in BLUE on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/blue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CRAZY BLUE</title>
+      <link>/blue/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blue/</guid>
+      <description>기분 좋지 않은 하루다. 날씨도 비왔다.. 해나왔다.. 미친것 같이 변덕스럽고.. 습기는 많고.. 기분 좋지 않은 하루. UPDATE: 1:30AM 순덕이가 돌아왔다. 생각많은 오늘도</description>
+      
+    </item>
+    
+  </channel>
+</rss>

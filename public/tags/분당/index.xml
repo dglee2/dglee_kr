@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>분당 on DGLEE.KR</title>
+    <link>/tags/%EB%B6%84%EB%8B%B9/</link>
+    <description>Recent content in 분당 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EB%B6%84%EB%8B%B9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>운전.</title>
+      <link>/1008_drive/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/1008_drive/</guid>
+      <description>오늘도 하루종일 드라이브. 오늘은 거의 800Km 운전이네. 분당갔다 돌아오는 길에 의성으로 빠져서&amp;hellip; 남선옥 고기 구워먹고&amp;hellip; 의성 집에도</description>
+      
+    </item>
+    
+    <item>
+      <title>운전.</title>
+      <link>/0910_drive/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/0910_drive/</guid>
+      <description>분당 찍고 돌아오느라&amp;hellip; 어림잡아 750Km 운전. 새벽에 출발할때는 차가 없어 좋더니, 돌아오는 길은 속도는 훨씬 느렸지만 운전은 더 힘들었다. 답답이들은</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DGLEE.KR</title>
+    <link>/</link>
+    <description>Recent content on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analects</title>
+      <link>/analects/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/analects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IT Note</title>
+      <link>/it-note/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/it-note/</guid>
+      <description>빡침방지 메모 + 알파.</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>인생경험 + 생각들. 한번밖에 없을 인생, 일하는 것 외에 경험하는 것 그리고 엮인 생각들. 그냥 흘려보내기 아까운 그런것들의 기록. 사실, 이런시도는 여러번 있었지</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

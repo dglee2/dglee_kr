@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>선선함 on DGLEE.KR</title>
+    <link>/tags/%EC%84%A0%EC%84%A0%ED%95%A8/</link>
+    <description>Recent content in 선선함 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EC%84%A0%EC%84%A0%ED%95%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>가을.</title>
+      <link>/0901_fall/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/0901_fall/</guid>
+      <description>벌써 9월. 시간 정말 잘지나간다. 지난 8월에도 할것들이 많았는데 한것보다 못한것이 많은 느낌. 내가 Todo리스트를 너무 욕심부려 뽑았던 것일까. 이제 기온도</description>
+      
+    </item>
+    
+  </channel>
+</rss>

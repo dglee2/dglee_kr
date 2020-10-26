@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>오늘도 on DGLEE.KR</title>
+    <link>/tags/%EC%98%A4%EB%8A%98%EB%8F%84/</link>
+    <description>Recent content in 오늘도 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EC%98%A4%EB%8A%98%EB%8F%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>오늘도.</title>
+      <link>/0902_same/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/0902_same/</guid>
+      <description>오늘도 역시, 어김없이 보고싶다.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

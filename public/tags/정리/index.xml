@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>정리 on DGLEE.KR</title>
+    <link>/tags/%EC%A0%95%EB%A6%AC/</link>
+    <description>Recent content in 정리 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EC%A0%95%EB%A6%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>정리.</title>
+      <link>/0926_jeonglee/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/0926_jeonglee/</guid>
+      <description>요며칠 계속해서 생각정리 중. 아니, 생각정리가 아니라.. 나에 대한 정리 중인게 맞겠다. 나는 누구인가&amp;hellip; 어떤 가치를 중요하게 여기며 살아왔던가</description>
+      
+    </item>
+    
+  </channel>
+</rss>

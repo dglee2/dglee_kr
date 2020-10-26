@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>20 on DGLEE.KR</title>
+    <link>/tags/20/</link>
+    <description>Recent content in 20 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/20/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>팔일 20/26</title>
+      <link>/analects/0320/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/analects/0320/</guid>
+      <description>子曰：「關雎，樂而不淫，哀而不傷。」 공자가 말하기를, &amp;ldquo;&amp;lsquo;관저&amp;rsquo;는 즐겁되 음탕하지 않고, 슬프되 마음 상하지 않느</description>
+      
+    </item>
+    
+    <item>
+      <title>위정 20/24</title>
+      <link>/analects/0220/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/analects/0220/</guid>
+      <description>季康子問 使民敬 忠以勸 如之何？ 子曰 臨之以莊則敬 孝慈則忠 舉善而教不能 則勸 계강자가 묻기를 백성들로 하여금 공경하고 충성하도록 권하려면 어떻게 하여야 합니까</description>
+      
+    </item>
+    
+  </channel>
+</rss>

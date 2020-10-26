@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>가치 on DGLEE.KR</title>
+    <link>/tags/%EA%B0%80%EC%B9%98/</link>
+    <description>Recent content in 가치 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EA%B0%80%EC%B9%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>외로움에 관하여...</title>
+      <link>/about_loneliness/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about_loneliness/</guid>
+      <description>비교적 이른 나이에 가족과 떨어져 생활했던 나는&amp;hellip; 오래전부터 &amp;lsquo;외롭지 않냐&amp;rsquo;는 질문을 많이 받고 살았다. 군생활 하기 전</description>
+      
+    </item>
+    
+  </channel>
+</rss>

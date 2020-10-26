@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>1 on DGLEE.KR</title>
+    <link>/tags/1/</link>
+    <description>Recent content in 1 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>위정 1/24</title>
+      <link>/analects/0201/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/analects/0201/</guid>
+      <description>子曰 為政以德 譬如北辰 居其所而眾星共之 공자가 말하기를 덕으로서 정치를 하는 것은 마치 북극성이 그 자리에 있고 여러 별들이 이것을 향해 돌고 있는 것과 마찬가지이니</description>
+      
+    </item>
+    
+  </channel>
+</rss>

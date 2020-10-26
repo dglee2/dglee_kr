@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>우짜지? on DGLEE.KR</title>
+    <link>/tags/%EC%9A%B0%EC%A7%9C%EC%A7%80/</link>
+    <description>Recent content in 우짜지? on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EC%9A%B0%EC%A7%9C%EC%A7%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>갈것인가 말것인가...</title>
+      <link>/question/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/question/</guid>
+      <description>갑갑&amp;hellip; 해서, 거금도를 갔다왔으면 하는데&amp;hellip; 이렇게 분위기가 안좋으니.. 갈까말까 고민되는구나.. 차에다 라면 같은거 싣고 다니</description>
+      
+    </item>
+    
+  </channel>
+</rss>

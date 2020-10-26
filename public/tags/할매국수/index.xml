@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>할매국수 on DGLEE.KR</title>
+    <link>/tags/%ED%95%A0%EB%A7%A4%EA%B5%AD%EC%88%98/</link>
+    <description>Recent content in 할매국수 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%ED%95%A0%EB%A7%A4%EA%B5%AD%EC%88%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>세상 참 많이 변했구나..</title>
+      <link>/change/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/change/</guid>
+      <description>와&amp;hellip; 요즘엔 할매국수집 같은데도 브레이크타임이 있구나.. 세상 정말 많이 변했구나. 내가 너무 늙은건가.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

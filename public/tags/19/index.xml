@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>19 on DGLEE.KR</title>
+    <link>/tags/19/</link>
+    <description>Recent content in 19 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/19/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>팔일 19/26</title>
+      <link>/analects/0319/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/analects/0319/</guid>
+      <description>定公問：「君使臣，臣事君，如之何？」孔子對曰：「君使臣以禮，臣事君以忠。」 정공이 묻기를 &amp;ldquo;임금이 신하를 부리고 신하가 임금을 섬기는 일은</description>
+      
+    </item>
+    
+    <item>
+      <title>위정 19/24</title>
+      <link>/analects/0219/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/analects/0219/</guid>
+      <description>哀公問曰 何為則民服？ 孔子對曰 舉直錯諸枉 則民服 舉枉錯諸直 則民不服 예공이 묻기를 어떻게 하면 백성의 마음까지 따르게 할수 있습니까? 공자가 대답하기를 곧고 올</description>
+      
+    </item>
+    
+  </channel>
+</rss>

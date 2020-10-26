@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>죽은줄 알았다 on DGLEE.KR</title>
+    <link>/tags/%EC%A3%BD%EC%9D%80%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4/</link>
+    <description>Recent content in 죽은줄 알았다 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EC%A3%BD%EC%9D%80%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>살아있네.</title>
+      <link>/1014_heartbeat/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/1014_heartbeat/</guid>
+      <description>죽었거나&amp;hellip; 어쨌거나, 무슨 변고가 있는것이 아닌가 걱정했더니&amp;hellip; 우선은 살아있는것은 같으니 그나마 다행이고 기쁨.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

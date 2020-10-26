@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>놀고싶다 on DGLEE.KR</title>
+    <link>/tags/%EB%86%80%EA%B3%A0%EC%8B%B6%EB%8B%A4/</link>
+    <description>Recent content in 놀고싶다 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EB%86%80%EA%B3%A0%EC%8B%B6%EB%8B%A4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>노는게 제일좋아.</title>
+      <link>/play/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/play/</guid>
+      <description>날씨도&amp;hellip; 이게 오지게 여름인것도 아니고.. 약간 흐린것 같기도 하면서 습하고 더우면서 어쩡정한게&amp;hellip; 에어컨 바람도 지겹고&amp;hel</description>
+      
+    </item>
+    
+  </channel>
+</rss>

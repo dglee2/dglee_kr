@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows 10 on DGLEE.KR</title>
+    <link>/tags/windows-10/</link>
+    <description>Recent content in Windows 10 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/windows-10/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenBSD Windows 10 Multiboot</title>
+      <link>/it-note/openbsd_multiboot/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/it-note/openbsd_multiboot/</guid>
+      <description>Windows 10 부터 설치 진행. OpenBSD 설치할 파티션(NTFS) 하나 만들어 두고 Windows 10 설치 진행한다. OpenBSD를 준비해둔 파티션에 (fdisk로 NTFS-&amp;gt;4.4BSD 로 변환) 설치하면</description>
+      
+    </item>
+    
+  </channel>
+</rss>

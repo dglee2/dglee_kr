@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>모던 15 A10M-i5 on DGLEE.KR</title>
+    <link>/tags/%EB%AA%A8%EB%8D%98-15-a10m-i5/</link>
+    <description>Recent content in 모던 15 A10M-i5 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EB%AA%A8%EB%8D%98-15-a10m-i5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>새장비 주문.</title>
+      <link>/new_laptop/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/new_laptop/</guid>
+      <description>간만에.. 정말 오랜만에 새 장비 주문넣었다. 지금 사용중인것은 인텔 3세대, 가끔 쓰는것은 5세대 노트북. 3세대인 레노보 엣지 이건&amp;hellip; 정말 속아</description>
+      
+    </item>
+    
+  </channel>
+</rss>

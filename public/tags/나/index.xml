@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>나 on DGLEE.KR</title>
+    <link>/tags/%EB%82%98/</link>
+    <description>Recent content in 나 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EB%82%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>계절.</title>
+      <link>/post/2020_09/27/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020_09/27/</guid>
+      <description>왜이렇게 하루가 다르게 가슴에 구멍이 뻥 뚫린것 같이 허전한지 모르겠네&amp;hellip; 하루하루 사는건 어느때보다 바쁜데, 뭔가 부족한 느낌이고.. 허전한 느낌</description>
+      
+    </item>
+    
+    <item>
+      <title>정리.</title>
+      <link>/0926_jeonglee/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/0926_jeonglee/</guid>
+      <description>요며칠 계속해서 생각정리 중. 아니, 생각정리가 아니라.. 나에 대한 정리 중인게 맞겠다. 나는 누구인가&amp;hellip; 어떤 가치를 중요하게 여기며 살아왔던가</description>
+      
+    </item>
+    
+  </channel>
+</rss>

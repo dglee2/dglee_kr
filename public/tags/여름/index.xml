@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>여름 on DGLEE.KR</title>
+    <link>/tags/%EC%97%AC%EB%A6%84/</link>
+    <description>Recent content in 여름 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/%EC%97%AC%EB%A6%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>여름이 지나가는 중.</title>
+      <link>/0823_summer-passing/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/0823_summer-passing/</guid>
+      <description>이제 서서히 가을이 오는것 같다. 낮기온도, 밤기온도 일주일 전에 비해 2-3도 이상 많이 낮아졌고&amp;hellip; 진해 가봐도 이제는 잠자리가 날아다닌다. 20</description>
+      
+    </item>
+    
+    <item>
+      <title>이제 진짜 여름인가.</title>
+      <link>/real_summer/</link>
+      <pubDate>Fri, 14 Aug 2020 09:00:00 +0900</pubDate>
+      
+      <guid>/real_summer/</guid>
+      <description>드디어 여름다운 여름인가&amp;hellip; 아&amp;hellip;. 놀고싶다. 창밖 쳐다보지 않기, 바깥으로 나가지 않기 실천 중.</description>
+      
+    </item>
+    
+    <item>
+      <title>아.. 여름이다.</title>
+      <link>/summer/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/summer/</guid>
+      <description>7월 장마가고 이제 여름이 왔나보다. 낮기온은 이제 34도 정도 찍히네&amp;hellip; 차 온도계 기준으로. 8월은 어딜 다녀와야 되나&amp;hellip; 의성가서</description>
+      
+    </item>
+    
+  </channel>
+</rss>

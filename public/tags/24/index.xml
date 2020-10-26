@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>24 on DGLEE.KR</title>
+    <link>/tags/24/</link>
+    <description>Recent content in 24 on DGLEE.KR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>2020 ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/24/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>팔일 24/26</title>
+      <link>/analects/0324/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/analects/0324/</guid>
+      <description>儀封人請見。曰：「君子之至於斯也，吾未嘗不得見也。」從者見之。出曰：「二三子，何患於喪乎？天下之無道也久矣，天將以夫子為木鐸。」 의 지방의 봉인</description>
+      
+    </item>
+    
+    <item>
+      <title>위정 24/24</title>
+      <link>/analects/0224/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/analects/0224/</guid>
+      <description>子曰 非其鬼而祭之 諂也 見義不為 無勇也 공자가 말하기를 조상의 영혼이 아닌것에 제사 지내는 것은 아첨하는 것이며 옳은 일을 보고도 행하지 않음은 용기가 없는 것이다.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
